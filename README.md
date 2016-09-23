@@ -1,0 +1,2 @@
+# corrupted_image_seggregate
+Image Classification
