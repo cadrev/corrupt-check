@@ -4,7 +4,7 @@ DOST-ASTI's project on urban flood monitoring involves a tandem of water-level s
 monitor street level flooding. Data from these sensors are sent via a GPRS every 5 minutes. 
 
 
-<img src="https://github.com/cadrev/corruptcheck/blob/master/attachment/sample.png" width="100">
+<img src="https://github.com/cadrev/corruptcheck/blob/master/attachment/sample.png" width="300">
 
 
 The challenge in archiving the camera images is that sometimes the images are corrupted upon receiving. 
