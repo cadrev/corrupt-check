@@ -1,7 +1,7 @@
 # Image Segregator
 This is a sample script for determining the image quality sent by DOST-ASTI's UrbanFlood Sensor Networks.
-DOST-ASTI's project on urban flood monitoring involves a tandem of water-level sensors and serial cameras to 
-monitor street level flooding. Data from these sensors are sent via a GPRS every 5 minutes. 
+DOST-ASTI's project on urban flood monitoring involves a tandem of water-level sensor and serial camera to 
+monitor street level flooding. Data from these sensors are sent via GPRS every 5 minutes. 
 
 
 <img src="https://github.com/cadrev/corruptcheck/blob/master/attachment/sample.png" width="300">
