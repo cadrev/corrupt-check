@@ -8,4 +8,4 @@ monitor street level flooding. Data from these sensors are sent via GPRS every 5
 
 
 The challenge in archiving the camera images is that sometimes the images are corrupted upon receiving. 
-To seggregate between the good and bad images, a simple machine learning model is made to clean the data set worth of 30000 images. 
+To segregate between the good and bad images, a simple machine learning model is made to clean the data set worth of 30000 images. 
